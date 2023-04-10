@@ -1,0 +1,21 @@
+const mongoose = require("mongoose");
+const Schema = mongoose.Schema;
+
+const PropertySchema = new Schema({
+  name: {
+    type: String,
+    required: true,
+  },
+  email: {
+    type: String,
+    required: true,
+  },
+  properties: {
+    type: Schema.Types.ObjectId,
+    ref: "properties_id",
+  },
+});
+
+const Users = mongoose.model("users", PropertySchema);
+
+module.exports = Users;

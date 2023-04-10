@@ -1,0 +1,22 @@
+./src
+
+App.js
+
+data =  data de la DB 
+
+openModal = estado verdadero o falso para abrir ventana
+
+mode = validar si es edit o create
+
+form = parametros de la base de datos sin informacion
+
+setForm = la nueva informacion q vamos a poner en la DB 
+
+isFavorite = para el bookmark son los favoritos
+
+
+form => modal => form.favorite = true o false desde la base de datos
+
+searchTerm = searchBar
+
+isLoading = cargar la pagina despues de obtener la data

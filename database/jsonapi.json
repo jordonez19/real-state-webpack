@@ -1,0 +1,40 @@
+{
+  "properties": [
+    {
+      "img": "",
+      "area": "120m2",
+      "bath": 2,
+      "description": "Apartamento de 60m2 en arriendo en exelente estado",
+      "rooms": 3,
+      "purpose": "venta",
+      "propertyType": "casa"
+    },
+    {
+      "img": "",
+      "area": "60m2",
+      "bath": 1,
+      "description": "Casa de 120m2 en venta en exelente estado",
+      "rooms": 2,
+      "purpose": "arriendo",
+      "propertyType": "apartament"
+    },
+    {
+      "img": "",
+      "area": "90m2",
+      "bath": 1,
+      "description": "Apartestudio de 90m2 en arriendo en exelente estado",
+      "rooms": 1,
+      "purpose": "venta",
+      "propertyType": "apartestudio"
+    },
+    {
+      "img": "",
+      "area": "500m2",
+      "bath": 3,
+      "description": "Apartamento de 120m2 en venta en exelente estado",
+      "rooms": 5,
+      "purpose": "arriendo",
+      "propertyType": "casa"
+    }
+  ]
+}
